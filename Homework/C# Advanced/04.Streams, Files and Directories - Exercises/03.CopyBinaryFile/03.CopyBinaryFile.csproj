@@ -1,9 +1,10 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
 		<OutputType>Exe</OutputType>
 		<TargetFramework>netcoreapp3.1</TargetFramework>
-		<RootNamespace>_05_ExtractSpecialBytes</RootNamespace>
+		<RootNamespace>_03_CopyBinaryFile</RootNamespace>
 	</PropertyGroup>
 
 </Project>
+
